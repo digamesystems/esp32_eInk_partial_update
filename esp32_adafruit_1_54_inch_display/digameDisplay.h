@@ -3,6 +3,7 @@
  * See: https://www.adafruit.com/product/4196
  * 
  * I'm using an ESP32 WROOM DevKit V4.0 as my microcontroller.
+ * 
  */
  
 #ifndef __DIGAME_DISPLAY_H__
@@ -12,7 +13,7 @@
 // enable or disable GxEPD2_GFX base class
 #define ENABLE_GxEPD2_GFX 0
 
-/* Here we are making use of ZinngJM's nifty GxEPD2 library.
+/* Here we are making use of Jean-Marc Zingg's nifty GxEPD2 library.
  * https://github.com/ZinggJM/GxEPD2
  * His header files, used for display selection are included for reference. 
  */
