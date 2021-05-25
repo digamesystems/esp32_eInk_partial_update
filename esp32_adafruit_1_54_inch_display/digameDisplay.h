@@ -45,7 +45,7 @@ void showValue(double v);
 //******************************************************************************************
 void initDisplay()
 {
-  display.setRotation(2);
+  display.setRotation(0);
   //display.setFont(&FreeMonoBold9pt7b);
   display.setTextColor(GxEPD_BLACK);
   int16_t tbx, tby; uint16_t tbw, tbh;
