@@ -24,7 +24,8 @@ void setup()
    
     Serial.println("*****************************************************");
     Serial.println("Adafruit Partial Update Example");
-    Serial.println("Using the GxEPD2.h Library");
+    Serial.println("  Using the GxEPD2.h Library by Jean-Marc Zingg.");
+    Serial.println("  https://github.com/ZinggJM/GxEPD2");
     Serial.println("Copyright 2021, Digame Systems. All rights reserved.");
     Serial.println();
     Serial.print("Compiled on ");
